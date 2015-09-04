@@ -1,0 +1,1 @@
+./Debug/api_APIManager.cpp.o ./Debug/core_ConfigurationManager.cpp.o ./Debug/core_FileManager.cpp.o ./Debug/core_LogManager.cpp.o ./Debug/core_Monitor.cpp.o ./Debug/core_ProcessManager.cpp.o ./Debug/core_RegexManager.cpp.o ./Debug/core_RuleManager.cpp.o ./Debug/core_ThreadManager.cpp.o ./Debug/www_WebManager.cpp.o
